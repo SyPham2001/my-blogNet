@@ -1,0 +1,46 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Microsoft Azure
+*.azurePubxml
+*.pubxml
+*.publishsettings
+
+# User-specific files
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# DotCover
+.idea/
+*.dotCover
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Database
+*.mdf
+*.ldf
+
+# Others
+_ReSharper*/
+*.dbmdl
+*.sdf
+*.cache
