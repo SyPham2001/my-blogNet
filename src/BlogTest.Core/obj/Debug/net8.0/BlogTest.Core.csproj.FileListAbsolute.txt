@@ -1,0 +1,13 @@
+D:\projectNet\BlogTest\src\BlogTest.Core\bin\Debug\net8.0\BlogTest.Core.deps.json
+D:\projectNet\BlogTest\src\BlogTest.Core\bin\Debug\net8.0\BlogTest.Core.dll
+D:\projectNet\BlogTest\src\BlogTest.Core\bin\Debug\net8.0\BlogTest.Core.pdb
+D:\projectNet\BlogTest\src\BlogTest.Core\obj\Debug\net8.0\BlogTest.Core.csproj.AssemblyReference.cache
+D:\projectNet\BlogTest\src\BlogTest.Core\obj\Debug\net8.0\BlogTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectNet\BlogTest\src\BlogTest.Core\obj\Debug\net8.0\BlogTest.Core.AssemblyInfoInputs.cache
+D:\projectNet\BlogTest\src\BlogTest.Core\obj\Debug\net8.0\BlogTest.Core.AssemblyInfo.cs
+D:\projectNet\BlogTest\src\BlogTest.Core\obj\Debug\net8.0\BlogTest.Core.csproj.CoreCompileInputs.cache
+D:\projectNet\BlogTest\src\BlogTest.Core\obj\Debug\net8.0\BlogTest.Core.sourcelink.json
+D:\projectNet\BlogTest\src\BlogTest.Core\obj\Debug\net8.0\BlogTest.Core.dll
+D:\projectNet\BlogTest\src\BlogTest.Core\obj\Debug\net8.0\refint\BlogTest.Core.dll
+D:\projectNet\BlogTest\src\BlogTest.Core\obj\Debug\net8.0\BlogTest.Core.pdb
+D:\projectNet\BlogTest\src\BlogTest.Core\obj\Debug\net8.0\ref\BlogTest.Core.dll
